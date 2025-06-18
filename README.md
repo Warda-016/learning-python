@@ -1,5 +1,5 @@
-# learning-python-with-study-group
-Tasks and projects for the BITs society Python, AI, and ML study group.
+# learning-python
+Tasks and projects completed for Python, AI, and ML.
 
 ## Structure:
 - Each folder contains tasks assigned during our sessions.
