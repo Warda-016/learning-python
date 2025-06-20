@@ -1,8 +1,8 @@
 # learning-python
-Tasks and projects completed for Python, AI, and ML.
+Notes tasks and projects completed for Python, AI, and ML.
 
 ## Structure:
-- Each folder contains tasks assigned during our sessions.
+- Each folder contains some of my self-study notes or some tasks assigned during our sessions.
 - Tasks cover Python basics, AI concepts, and ML techniques.
 
 ## How to Use:
